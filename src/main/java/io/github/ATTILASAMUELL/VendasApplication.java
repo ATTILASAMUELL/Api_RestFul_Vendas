@@ -28,7 +28,7 @@ public class VendasApplication {
         SpringApplication.run(VendasApplication.class,args);
 
 
-        
+        //parei aula 41
 
 
     }
